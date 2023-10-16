@@ -22,11 +22,11 @@
 <div>
 <img align="right" src="https://github.com/Jhosefx/Jhosefx/blob/main/blue_yoshi_next_to_hostile_waters.gif"width="30%"/>
   <br>
-  <h3><b><samp>Skills:</samp></b></h3>
+  <h3><b><samp>Skills</samp></b></h3>
   
-- 👨‍💻 <samp> Studying Systems Analysis and Development at Unigrande University
-- 📚 <samp><b> Beginner in Front End Development
-- 🎨 <samp><b>Professional Course in Web Design</b>
-- 🐧 <samp><b>Linux</b>
-- 🐦 PhotoShop CS6
+- 👨‍💻 **<samp>Studying Systems Analysis and Development at Unigrande University**
+- 📚 **<samp><b> Beginner in Front End Development**
+- 🎨 **<samp><b>Professional Course in Web Design</b>**
+- 🐧 **<samp><b>Linux</b>**
+- 🐦 **PhotoShop CS6**
 </div>
