@@ -1,4 +1,4 @@
-# Hello, I'm José Guilherme and I'm a web developer 
+# Hello, I'm José Guilherme and I'm a front-end developer 
 
 ![](https://github.com/Jhosefx/Jhosefx/blob/main/header_.png)
 
