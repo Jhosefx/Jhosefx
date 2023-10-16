@@ -28,5 +28,4 @@
 - 📚 **<samp><b> Beginner in Front End Development**
 - 🎨 **<samp><b>Professional Course in Web Design</b>**
 - 🐧 **<samp><b>Linux</b>**
-- 🐦 **PhotoShop CS6**
 </div>
