@@ -15,7 +15,7 @@
 </div>
 
 <div>
-<img align="right" src="https://github.com/Jhosefx/Jhosefx/blob/main/blue_yoshi_next_to_hostile_waters.gif"width="20%"/>
+<img align="right" src="https://github.com/Jhosefx/Jhosefx/blob/main/blue_yoshi_next_to_hostile_waters.gif"width="28%"/>
 
   <br>
   <h3><b><samp>Skills</samp></b></h3>
