@@ -25,6 +25,6 @@
 - <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>" **<samp><b>Professional Course in Web Design</b>**
 - <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>   **<samp><b>Linux</b>**
 
-<a href="https://www.linkedin.com/in/joseguilhermedevweb" target="_blank">
+<br> <a href="https://www.linkedin.com/in/joseguilhermedevweb" target="_blank">
 <img align="center" src="https://img.shields.io/badge/-Jhosefx-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
+</a> </br>
