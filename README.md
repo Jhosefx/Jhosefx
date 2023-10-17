@@ -22,7 +22,6 @@
 <div>
 <img align="right" src="https://github.com/Jhosefx/Jhosefx/blob/main/blue_yoshi_next_to_hostile_waters.gif"width="30%"/>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
   <br>
   <h3><b><samp>Skills</samp></b></h3>
   
@@ -31,3 +30,5 @@
 - 🎨 **<samp><b>Professional Course in Web Design</b>**
 - 🐧 **<samp><b>Linux</b>**
 </div>
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?jhosefx=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
