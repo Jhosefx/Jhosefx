@@ -2,10 +2,6 @@
 ![](https://github.com/Jhosefx/Jhosefx/blob/main/header_.png)
 # Hello, I'm José Guilherme
 
-<br><br>
-</a>
-  <img align="left" alt="Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-</a>
 <br>
 
 <div style="display: inline_block"><br>
@@ -29,4 +25,6 @@
 - <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>" **<samp><b>Professional Course in Web Design</b>**
 - <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>   **<samp><b>Linux</b>**
 
-<a href="https://www.linkedin.com/in/joseguilhermedevweb/">
+<a href="https://www.linkedin.com/in/joseguilhermedevweb" target="_blank">
+<img align="center" src="https://img.shields.io/badge/-Jhosefx-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
