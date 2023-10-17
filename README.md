@@ -29,3 +29,5 @@
 - 🎨 **<samp><b>Professional Course in Web Design</b>**
 - 🐧 **<samp><b>Linux</b>**
 </div>
+
+<img src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green"/>
