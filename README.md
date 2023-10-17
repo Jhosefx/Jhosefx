@@ -1,10 +1,9 @@
-# Hello, I'm José Guilherme and I'm a front-end developer 
 
 ![](https://github.com/Jhosefx/Jhosefx/blob/main/header_.png)
+# Hello, I'm José Guilherme
 
 <br><br>
 </a>
-<a href="https://www.linkedin.com/in/joseguilhermedevweb/">
   <img align="left" alt="Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
 <br>
@@ -26,9 +25,8 @@
   <h3><b><samp>Skills</samp></b></h3>
   
 - 👨‍💻 **<samp>Studying Systems Analysis and Development at Unigrande University**
-- 📚 **<samp><b> Beginner in Front End Development**
-- 🎨 **<samp><b>Professional Course in Web Design</b>**
+- 🔥 **<samp><b> Beginner in Front End Development**
+- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>" **<samp><b>Professional Course in Web Design</b>**
 - <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>   **<samp><b>Linux</b>**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
-
+<a href="https://www.linkedin.com/in/joseguilhermedevweb/">
