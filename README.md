@@ -21,6 +21,8 @@
 
 <div>
 <img align="right" src="https://github.com/Jhosefx/Jhosefx/blob/main/blue_yoshi_next_to_hostile_waters.gif"width="30%"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green"/>
   <br>
   <h3><b><samp>Skills</samp></b></h3>
   
@@ -29,5 +31,3 @@
 - 🎨 **<samp><b>Professional Course in Web Design</b>**
 - 🐧 **<samp><b>Linux</b>**
 </div>
-
-<img src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green"/>
