@@ -28,7 +28,7 @@
 - 👨‍💻 **<samp>Studying Systems Analysis and Development at Unigrande University**
 - 📚 **<samp><b> Beginner in Front End Development**
 - 🎨 **<samp><b>Professional Course in Web Design</b>**
-- 🐧 **<samp><b>Linux</b>**
+- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>   **<samp><b>Linux</b>**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
 
