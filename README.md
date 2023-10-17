@@ -22,7 +22,7 @@
 <div>
 <img align="right" src="https://github.com/Jhosefx/Jhosefx/blob/main/blue_yoshi_next_to_hostile_waters.gif"width="30%"/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
   <br>
   <h3><b><samp>Skills</samp></b></h3>
   
